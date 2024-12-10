@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "sol": "^0.3.0",
+    "truffle": "^5.11.5"
+  },
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
